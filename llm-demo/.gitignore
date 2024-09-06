@@ -1,0 +1,7 @@
+.cache
+dist
+.parcel-cache
+elm-stuff
+node_modules
+elm.js
+package-lock.json

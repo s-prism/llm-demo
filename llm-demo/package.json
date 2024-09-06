@@ -1,0 +1,21 @@
+{
+  "name": "text_to_response",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./index.html --https --open",
+    "build": "parcel build ./index.html"
+  },
+  "author": "",
+  "license": "",
+  "description": "",
+  "dependencies": {
+    "parcel": "latest"
+  },
+  "devDependencies": {
+    "elm-hot": "^1.1.6",
+    "node-elm-compiler": "^5.0.6",
+    "parcel-bundler": "latest"
+  }
+}
